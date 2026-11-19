@@ -1,0 +1,1 @@
+printfn "printing from the file" // when = is used with let then it is used to assign a value but when it is used without let then it is used for comparsion 
